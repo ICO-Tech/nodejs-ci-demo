@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-ci-demo",
+  "version": "1.0.0",
+  "description": "A simple Node.js app with CI/CD using GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ICO-Tech/nodejs-ci-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ICO-Tech/nodejs-ci-demo/issues"
+  },
+  "homepage": "https://github.com/ICO-Tech/nodejs-ci-demo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
